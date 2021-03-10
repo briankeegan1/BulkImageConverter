@@ -1,0 +1,11 @@
+J:\User Folders\Downloads\bulkimgconverter\BulkImageConverter\obj\Debug\BulkImageConverter.csprojAssemblyReference.cache
+J:\User Folders\Downloads\bulkimgconverter\BulkImageConverter\bin\Debug\BulkImageConverter.exe.config
+J:\User Folders\Downloads\bulkimgconverter\BulkImageConverter\bin\Debug\BulkImageConverter.exe
+J:\User Folders\Downloads\bulkimgconverter\BulkImageConverter\bin\Debug\BulkImageConverter.pdb
+J:\User Folders\Downloads\bulkimgconverter\BulkImageConverter\obj\Debug\slade73.Forms.frmFileExists.resources
+J:\User Folders\Downloads\bulkimgconverter\BulkImageConverter\obj\Debug\BulkImageConverter.frmMain.resources
+J:\User Folders\Downloads\bulkimgconverter\BulkImageConverter\obj\Debug\BulkImageConverter.Properties.Resources.resources
+J:\User Folders\Downloads\bulkimgconverter\BulkImageConverter\obj\Debug\BulkImageConverter.csproj.GenerateResource.cache
+J:\User Folders\Downloads\bulkimgconverter\BulkImageConverter\obj\Debug\BulkImageConverter.csproj.CoreCompileInputs.cache
+J:\User Folders\Downloads\bulkimgconverter\BulkImageConverter\obj\Debug\BulkImageConverter.exe
+J:\User Folders\Downloads\bulkimgconverter\BulkImageConverter\obj\Debug\BulkImageConverter.pdb
